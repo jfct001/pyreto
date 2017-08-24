@@ -13,6 +13,8 @@
 # You should have received a copy of the GNU General Public License
 # along with PYPOWER. If not, see <http://www.gnu.org/licenses/>.
 
+# T. Chen changed it
+
 """ Defines a power auction for clearing offers/bids, where pricing is
 adjusted for network losses and binding constraints
 """
